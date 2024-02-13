@@ -1,4 +1,4 @@
-#Run pip yfinance
+#Run pip install yfinance
 # Import from Yahoo Finance
 import yfinance as yf
 
